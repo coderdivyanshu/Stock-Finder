@@ -34,6 +34,6 @@ You can also add and delete according to your requirement
 
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/divyanshu-singh-954b73208/)
+[linkedin](https://www.linkedin.com/in/divyanshu-singh-954b73208/)
 
 
